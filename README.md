@@ -1,13 +1,13 @@
 ![CF](http://i.imgur.com/7v5ASc8.png) LAB
 =================================================
 
-## Buffers - File Transformers
+## HTTP and REST
 
 ### Author: Erin Trainor
 
 ### Links and Resources
-* [repo](https://github.com/etrainor/401-javascript-lab04)
-* [travis](https://www.travis-ci.com/etrainor/401-javascript-lab04)
+* [repo](https://github.com/etrainor/401-javascript-06)
+* [travis](https://www.travis-ci.com/etrainor/401-javascript-06)
 
 
 #### Documentation
